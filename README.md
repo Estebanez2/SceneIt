@@ -17,7 +17,7 @@ Este repositorio permite levantar la aplicación **SceneIt** y su base de datos 
 
    Desde el bash/cmd
 
-    - git clone https://github.com/kazukigd2/SceneIt.git
+    - git clone https://github.com/Estebanez2/SceneIt.git
 
 2. Construye y levanta los contenedores:
 
